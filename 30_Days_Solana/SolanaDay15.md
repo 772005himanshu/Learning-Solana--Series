@@ -1,4 +1,4 @@
-## Introduction to Solana Compute units annd Transaction Fees
+## Introduction to Solana Compute units and Transaction Fees
 
 - In Ethereum , the price of a transaction is computed as `gasUsed * gasPrice`. This tell us how much ether we wna to spent to iinclude it in blockchain,Before a transaction is send gasLimit is specified and paid upfront. If transaction fee is more than `gasLimit` it reverts
 
